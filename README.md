@@ -14,3 +14,7 @@ What did I Change:
 
 PATCH NOTES CHANGES:
 V2: Moved Engineers Metal count ABOVE the Crosshair
+Moved Engineer's and Spy's PDA menus below the center rather than right on the center.
+Engineer's Metal is now above the center
+Demoman's sticky's are now above the center.
+Moved Snipers Charge 10 Px closer to the center.
