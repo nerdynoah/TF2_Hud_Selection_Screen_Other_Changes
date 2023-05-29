@@ -214,7 +214,7 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"c"
+		"xpos"					"c1"
 		"xpos_minmode"			"c"
 		"ypos"					"c-35"
 		"ypos_minmode"			"c"
@@ -715,7 +715,7 @@
 		"fieldName" "HudScopeCharge"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	 "c64"
+		"xpos"	 "c54"
 		"ypos"	 "c-64"
 		"wide"	 "64"
 		"tall"	 "128"
@@ -726,9 +726,9 @@
 		"fieldName" "HudVoiceSelfStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos" "r42" 	[$WIN32]
+		"xpos" "c-11" 	[$WIN32]
 		"ypos" "355"	[$WIN32]
-		"xpos" "r75"	[$X360]
+		"xpos" "c75"	[$X360]
 		"ypos" "375"	[$X360]
 		"wide" "32"
 		"tall" "32"
@@ -986,7 +986,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-225"
-		"ypos"			"c-55"
+		"ypos"			"c10"
 		"wide"			"450"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
@@ -998,7 +998,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-225"
-		"ypos"			"c-59"
+		"ypos"			"c10"
 		"wide"			"450"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
@@ -1009,8 +1009,8 @@
 		"fieldName" 	"HudEurekaEffectTeleportMenu"
 		"visible" 		"1"
 		"enabled" 		"1"
-		"xpos"			"c-125"
-		"ypos"			"c-55"
+		"xpos"			"c-120"
+		"ypos"			"c10"
 		"wide"			"250"
 		"tall"			"195"
 		"PaintBackgroundType"	"0"
@@ -1022,7 +1022,7 @@
 		"visible" 		"1"
 		"enabled" 		"1"
 		"xpos"			"c-235"
-		"ypos"			"c-52"
+		"ypos"			"c10"
 		"ypos_hidef"	"c-42"
 		"ypos_lodef"	"c-42"
 		"wide"			"470"
@@ -1036,9 +1036,9 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r162"	[$WIN32]
+		"xpos"			"c-50"	[$WIN32]
 		"xpos_minmode"	"r110"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
+		"ypos"			"c-150"	[$WIN32]
 		"ypos_minmode"	"r30"	[$WIN32]
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
