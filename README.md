@@ -11,3 +11,6 @@ What did I Change:
  Specialists: Heavy, Sniper, Spy
  
  Support: Medic, Engineer, Pryo
+
+PATCH NOTES CHANGES:
+V2: Moved Engineers Metal count ABOVE the Crosshair
