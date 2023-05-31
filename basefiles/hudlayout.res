@@ -18,7 +18,7 @@
 		"enabled" "1"
 		"xpos"	"c-90"	[$WIN32]
 		"xpos_minmode"	"r85"	[$WIN32]
-		"ypos"	"c-0"	[$WIN32]
+		"ypos"	"c13"	[$WIN32]
 		"ypos_minmode"	"r36"	[$WIN32]
 		"xpos"	"c-9"	[$X360]
 		"ypos"	"c-30"	[$X360]
