@@ -18,3 +18,5 @@ Moved Engineer's and Spy's PDA menus below the center rather than right on the c
 Engineer's Metal is now above the center
 Demoman's sticky's are now above the center.
 Moved Snipers Charge 10 Px closer to the center.
+
+V2.1: Moved the Ammo box down 13Px below the Crosshair (To allow bigger crosshairs)
